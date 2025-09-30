@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there, I'm Abdulkareem Abdulmalik
 
-<!--
-**Abdulmalik899/Abdulmalik899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A Junior Front-End Developer based in Lagos, Nigeria  
+💻 Currently working on an e-commerce platform called **Ummah Square** (Freelance, Team-Based)  
+🎓 Studying Systems Engineering at **University of Lagos** (Year 3)  
+🎓 Completed Front-End training at **Zulfah Academy**  
+🛠️ Currently learning **Backend Development** at Zulfah Academy  
+🤝 I enjoy working in collaborative teams and building meaningful web experiences
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript (ES6+), TypeScript  
+- **Frontend Frameworks:** React.js, Next.js  
+- **Styling:** Tailwind CSS, CSS Modules  
+- **Version Control & Tools:** Git, GitHub, GitLab, VS Code  
+- **Currently Learning:** Node.js, Express.js, MongoDB
+
+---
+
+### 📌 Projects
+
+- **Ummah Square** – Freelance e-commerce web app  
+- **Portfolio Website** – Personal project using React and GitHub Pages  
+- **Blog App** – Built with Next.js and Tailwind CSS  
+- **GitHub Profile Viewer** – React + TypeScript
+
+
